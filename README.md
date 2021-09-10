@@ -1,5 +1,7 @@
 # Leitor de tamanho (linhas e colunas) de uma ou mais planilhas.
 
+Ao executar o programa, é retornado o número de linhas e colunas totais de uma quantidade indefinida de planilhas, que são colocadas numa pasta para a leitura. 
+
 ## Requisitos
 
 - [Python 3.9 ou superior](https://www.python.org/downloads/ "Download Python")
